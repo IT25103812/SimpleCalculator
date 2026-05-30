@@ -27,7 +27,7 @@ This project can perform basic arithmetic operations such as:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/IT25103812/SimpleCalculator.git
 ```
 
 2. Open the project folder.
